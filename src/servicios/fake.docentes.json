@@ -1,0 +1,54 @@
+{
+  "docentes": [
+    {
+      "nombre": "Juan Pérez",
+      "materia": "Matemáticas",
+      "jornada": "mañana"
+    },
+    {
+      "nombre": "María García",
+      "materia": "Historia",
+      "jornada": "tarde"
+    },
+    {
+      "nombre": "Carlos Martínez",
+      "materia": "Física",
+      "jornada": "noche"
+    },
+    {
+      "nombre": "Ana López",
+      "materia": "Literatura",
+      "jornada": "mañana"
+    },
+    {
+      "nombre": "Pedro Sánchez",
+      "materia": "Química",
+      "jornada": "tarde"
+    },
+    {
+      "nombre": "Luisa Rodríguez",
+      "materia": "Biología",
+      "jornada": "noche"
+    },
+    {
+      "nombre": "Roberto Fernández",
+      "materia": "Inglés",
+      "jornada": "mañana"
+    },
+    {
+      "nombre": "Sara Martínez",
+      "materia": "Geografía",
+      "jornada": "tarde"
+    },
+    {
+      "nombre": "Daniel Pérez",
+      "materia": "Arte",
+      "jornada": "noche"
+    },
+    {
+      "nombre": "Laura Gómez",
+      "materia": "Educación Física",
+      "jornada": "mañana"
+    }
+  ]
+}
